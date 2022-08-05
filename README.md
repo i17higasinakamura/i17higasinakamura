@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left">
+  <a href="https://github.com/i17higasinakamura/i17higasinakamura/">
+    <img src="https://komarev.com/ghpvc/?username=i17higasinakamura" alt="i17higasinakamura" />
+  </a>
+  <a href="https://github.com/i17higasinakamura">
+    <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
+  </a>
+</p>
