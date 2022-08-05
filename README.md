@@ -20,6 +20,6 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=i17higasinakamura" alt="i17higasinakamura" />
   </a>
   <a href="https://github.com/i17higasinakamura">
-    <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/i17higasinakamura?label=follow&logo=github&style=flat" />
   </a>
 </p>
