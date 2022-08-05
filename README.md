@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[![i17higasinakamura's GitHub stats](https://github-readme-stats.vercel.app/api?username=i17higasinakamura&theme=vue-dark&show_icons=true)](https://github.com/i17higasinakamura/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i17higasinakamura&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/i17higasinakamura/github-readme-stats)
+
 
 <p align="left">
   <a href="https://github.com/i17higasinakamura/i17higasinakamura/">
